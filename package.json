@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/KlaudiaK0205/CLI-aplikacja#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^9.4.1",
     "nodemon": "^2.0.20"
   }
